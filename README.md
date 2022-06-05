@@ -1,0 +1,2 @@
+# flower-detection
+My model is able to detected the flower by the use of deep learning model. accuracy of model is very because i have trained this model on the less batch size if you want to predict the flower on higher accuracy then you should increase the batch size upto 64 but one thing i have to tell you is that you should have high ram with gpu then and then you can easily train this model otherwise it takes lots of hour to complete the training.
