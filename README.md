@@ -1,6 +1,27 @@
 # flower-detection
-My model is able to detected the flower by the use of deep learning model. accuracy of model is very because i have trained this model on the less batch size if you want to predict the flower on higher accuracy then you should increase the batch size upto 64 but one thing i have to tell you is that you should have high ram with gpu then and then you can easily train this model otherwise it takes lots of hour to complete the training.
-one thing you should remember that i have train my model on limited dataset ,my dataset had only five type flower if you want to add more type of flower and train the model ,it will be grate
+**problem Statement**
+Problem Statement:
+• Nowadays, It is difficult to identify the name of the flowers especially in india
+which vast country of flowers.
+• People don’t have enough knowledge of flowers .
+• Google have the feature where you just have to click picture of flower and it will 
+give you the all details of flowers but there are False Positive case available
+
+
+Objective:
+• Aware people about flowers and plants because most of the plants and 
+flowers are useful for medical treatment and people do not aware about it
+
+Limitation of this project
+• This app only identify those flower on which this app has been trained
+• Currently, my app has a ability to identify 5 type of flowers but I continues try to 
+improve this model 
+
+
+Future of this project
+• I will try to cover all the plants and flower that have been grew in last 
+10 years
+
 
 
 
